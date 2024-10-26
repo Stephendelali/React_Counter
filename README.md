@@ -1,4 +1,5 @@
-#Counter App
+##Counter App
+
 This is a simple Counter App built with React. The app allows you to increase, decrease, and reset a counter value with a progress bar that visually represents the counter value from 0 to 100.
 
 #Features
